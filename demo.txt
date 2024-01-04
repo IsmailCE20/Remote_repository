@@ -1,0 +1,3 @@
+After creating the file, clone the repository locally. 
+Within the local repository,
+create three branches: feature/login, feature/mainline, and release
